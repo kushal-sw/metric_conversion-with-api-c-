@@ -1,0 +1,19 @@
+==========================================
+     TEMPERATURE CONVERSION HISTORY
+==========================================
+
+Conversion #1
+City        : barcelona
+Input       : 13.96 C
+Celsius     : 13.96 C
+Fahrenheit  : 57.13 F
+Kelvin      : 287.11 K
+Status      : Cold
+------------------------------------------
+Conversion #2
+Input       : 33.00 K
+Celsius     : -240.15 C
+Fahrenheit  : -400.27 F
+Kelvin      : 33.00 K
+Status      : Freezing
+------------------------------------------
