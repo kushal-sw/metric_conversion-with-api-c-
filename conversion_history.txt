@@ -3,17 +3,25 @@
 ==========================================
 
 Conversion #1
-City        : barcelona
-Input       : 13.96 C
-Celsius     : 13.96 C
-Fahrenheit  : 57.13 F
-Kelvin      : 287.11 K
-Status      : Cold
+City        : mumbai
+Input       : 28.76 C
+Celsius     : 28.76 C
+Fahrenheit  : 83.77 F
+Kelvin      : 301.91 K
+Status      : Warm
 ------------------------------------------
 Conversion #2
-Input       : 33.00 K
-Celsius     : -240.15 C
-Fahrenheit  : -400.27 F
-Kelvin      : 33.00 K
-Status      : Freezing
+City        : hyderabad
+Input       : 34.28 C
+Celsius     : 34.28 C
+Fahrenheit  : 93.70 F
+Kelvin      : 307.43 K
+Status      : Warm
+------------------------------------------
+Conversion #3
+Input       : 33.00 C
+Celsius     : 33.00 C
+Fahrenheit  : 91.40 F
+Kelvin      : 306.15 K
+Status      : Warm
 ------------------------------------------
